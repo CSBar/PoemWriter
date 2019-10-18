@@ -1,9 +1,5 @@
 import java.util.*;
 public class IsThisWordInOurDictionary {
-    /*
-     * ITWIOD = Is This Word In Our Dictionary
-     *
-     */
     
     public static Scanner scanner = new Scanner(System.in);
     
